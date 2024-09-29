@@ -23,7 +23,7 @@ This guide will walk you through the installation of Git, Python, and Visual Stu
 
 1. In the **Command Prompt**, run the following command to install Python:
    ```bash
-   winget install Python.Python.3.2
+   winget install Python.Python.3.12
    ```
 2. Verify the installation by running:
    ```bash
