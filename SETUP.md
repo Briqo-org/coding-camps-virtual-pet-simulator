@@ -122,7 +122,7 @@ After installing Git, Python, and Visual Studio Code, you're ready to clone the 
 1. Open **Command Prompt** (Windows) or **Terminal** (macOS).
 2. Run the following command to clone the repository:
    ```bash
-   git clone https://github.com/yourusername/interactive-story-game.git
+   git clone https://github.com/Briqo-org/interactive-story-game.git
    ```
 
 3. Navigate into the project directory:
