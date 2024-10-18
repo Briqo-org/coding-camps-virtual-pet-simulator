@@ -122,12 +122,12 @@ After installing Git, Python, and Visual Studio Code, you're ready to clone the 
 1. Open **Command Prompt** (Windows) or **Terminal** (macOS).
 2. Run the following command to clone the repository:
    ```bash
-   git clone https://github.com/Briqo-org/interactive-story-game.git
+   git clone https://github.com/Briqo-org/coding-camps-virtual-pet-simulator
    ```
 
 3. Navigate into the project directory:
    ```bash
-   cd interactive-story-game
+   cd coding-camps-virtual-pet-simulator
    ```
 
 ### 2. Run the Python Game
@@ -140,11 +140,11 @@ After installing Git, Python, and Visual Studio Code, you're ready to clone the 
 2. Run the Python script to start the game:
    - On macOS:
      ```bash
-     python3 interactive_story_game.py
+     python3 virtual-pet-simulator.py
      ```
    - On Windows:
      ```bash
-     python interactive_story_game.py
+     python virtual-pet-simulator.py
      ```
 
 Now you're ready to play the interactive story game and start contributing!

@@ -30,9 +30,14 @@ To run the game, you'll need to have Python installed on your computer. You can 
     cd coding-camps-virtual-pet-simulator
     ```
 3. Ensure you have Python installed by running the following command in your terminal or command prompt:
-    ```bash
-    python --version
-    ```
+   - On macOS:
+     ```bash
+     python3 --version
+     ```
+   - On Windows:
+     ```bash
+     python --version
+     ```
 
 ## Game Overview
 
@@ -48,14 +53,21 @@ The **Virtual Pet Simulator** is a text-based simulation game where players crea
 ## How to Run the Game
 
 1. Open your terminal or command prompt.
-2. Navigate to the directory where the `virtual_pet_simulator.py` file is located.
+2. Navigate to the directory where the `virtual-pet-simulator.py` file is located.
     ```bash
     cd path/to/coding-camps-virtual-pet-simulator
     ```
 3. Run the Python script.
-    ```bash
-    python virtual_pet_simulator.py
-    ```
+
+   - On macOS:
+     ```bash
+     python3 virtual-pet-simulator.py
+     ```
+   - On Windows:
+     ```bash
+     python virtual-pet-simulator.py
+     ```
+
 4. Follow the on-screen instructions to play the game.
 
 ## How to Contribute
